@@ -14,3 +14,8 @@ dependencies:
 - pip
 - opencv
 - pandas
+- pillow
+- kaggle
+- ultralytics
+- gdown
+- PyYAML
