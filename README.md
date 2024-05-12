@@ -1,2 +1,2 @@
-# ComputerVision_STA_Project
+# Jasmin rice quality measurement
  
