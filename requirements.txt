@@ -1,0 +1,9 @@
+ultralytics==8.1.40
+opencv-python==4.9.0
+pandas==2.2.1
+numpy==1.26.4
+scikit-learn==1.4.1
+tqdm==4.66.2
+gdown==5.1.0
+kaggle==1.6.8
+matplotlib==3.8.3
