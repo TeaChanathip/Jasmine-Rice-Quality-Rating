@@ -4,3 +4,4 @@ kaggle.json
 *.pt
 
 !test/
+!web-streamlit/
