@@ -7,3 +7,4 @@ tqdm==4.66.2
 gdown==5.1.0
 kaggle==1.6.8
 matplotlib==3.8.3
+pandas==2.2.1
