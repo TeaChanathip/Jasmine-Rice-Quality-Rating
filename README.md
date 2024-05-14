@@ -7,20 +7,6 @@ blah blah
 pip install -r requirements.txt
 ```
  
-## Firstly, Take your rices images
-![Rice input image](./assets/input.png)
-
-And put your image in the `test` folder like this:
-```
-root
-|__ test
-    |__ input1.jpg
-    |__ input2.jpg
-    |__ input3.jpg
-    |__ ...
-|__ main-application.ipynb
-|__ ...
-```
 ## Run Run GO GO
 
 run run
@@ -48,3 +34,28 @@ run run
         - Rice's image
         - Jasmine rice or not
         - Quality label
+
+## Firstly, Take your rices images
+![Rice input image](./assets/input.png)
+
+And put your image in the `test` folder like this:
+```
+root
+|__ test
+    |__ input1.jpg
+    |__ input2.jpg
+    |__ input3.jpg
+    |__ ...
+|__ main-application.ipynb
+|__ ...
+```
+
+## Segmentation from YoloV8
+![YOLO Segmentation](./assets/segment.png)
+
+## Watershed segmentation
+![Watershed1](./assets/watershed-1.png)
+![Watershed2](./assets/watershed-2.png)
+
+## Classification from YoloV8
+![YOLO Classification](./assets/rice-stats.png)
