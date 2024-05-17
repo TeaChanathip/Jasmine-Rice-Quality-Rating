@@ -36,7 +36,7 @@ Our goal is to identify and segment out the Jasmine Rice given in a specific pic
      2. Activate the virtual environment:
         - On Windows:
           ```bash
-          venv\Scripts\activate
+          venv/Scripts/activate
           ```
         - On macOS/Linux:
           ```bash
