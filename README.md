@@ -8,6 +8,44 @@ Our goal is to identify and segment out the Jasmine Rice given in a specific pic
 - How do we define the “quality” of rice?
 - Are there any datasets available? Is it suitable with the project?
 - How can we create and train this model for the best results?
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/TeaChanathip/Jasmine-Rice-Quality-Rating.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Jasmine-Rice-Quality-Rating
+   ```
+3. Install dependencies:
+   Option 1: Using Conda (recommended)
+     1. Create a new conda environment from the `environment.yaml` file:
+        ```bash
+        conda env create -f environment.yaml
+        ```
+     2. Activate the conda environment:
+        ```bash
+        conda activate cv_term_project
+        ```
+   Option 2: Using Pip
+     1. Create a virtual environment
+        ```bash
+        python3 -m venv venv
+        ```
+     2. Activate the virtual environment:
+        - On Windows:
+          ```bash
+          venv\Scripts\activate
+          ```
+        - On macOS/Linux:
+          ```bash
+          source venv/bin/activate
+          ```
+     3. Install the dependencies:
+        ```bash
+        pip install -r requirements.txt
+        ```
   
 ## Project Overview
 - Reading the image
