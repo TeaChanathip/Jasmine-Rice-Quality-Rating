@@ -46,6 +46,9 @@ Our goal is to identify and segment out the Jasmine Rice given in a specific pic
         ```bash
         pip install -r requirements.txt
         ```
+4. Copy your testing images into `./test` folder
+5. Open and run all `main-application.ipynb`
+6. Check running results in `./output/run-{running-time-stamp}` folder
   
 ## Project Overview
 - Reading the image
