@@ -89,4 +89,6 @@ Each image will then be scored by:
 - Weighted average of 2 scores above in range from `0 to 5`
 
 ## Datasets
+https://www.kaggle.com/datasets/alikhalilit98/rice-image-dataset-for-object-segmentation/data
+
 https://www.kaggle.com/datasets/alikhalilit98/rice-image-dataset-for-object-detection
